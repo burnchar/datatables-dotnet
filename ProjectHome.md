@@ -1,0 +1,1 @@
+The DataTables website includes usage examples in PHP, but no other platform. It can be tricky to use DataTables and its plugins when not using the PHP libraries, so this project attempts to help fellow programmers by providing usage examples.
